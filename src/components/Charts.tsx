@@ -27,7 +27,7 @@ const weeklyData = [
 const balanceData = [
   { name: "Outstanding", value: 124500, color: "hsl(217, 91%, 60%)" },
   { name: "Received", value: 89200, color: "hsl(142, 76%, 36%)" },
-  { name: "Pending", value: 35300, color: "hsl(43, 96%, 56%)" },
+  { name: "Pending", value: 35300, color: "hsl(0, 84%, 60%)" },
 ];
 
 export function WeeklyTrend() {

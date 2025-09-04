@@ -40,8 +40,8 @@ All colors MUST be HSL. Poppins font family for modern financial UI.
     /* Financial status colors */
     --success: 142 76% 36%;
     --success-foreground: 0 0% 100%;
-    --warning: 43 96% 56%;
-    --warning-foreground: 26 83% 14%;
+    --warning: 0 84% 60%;
+    --warning-foreground: 0 0% 100%;
     --error: 0 84% 60%;
     --error-foreground: 0 0% 100%;
 
@@ -123,8 +123,8 @@ All colors MUST be HSL. Poppins font family for modern financial UI.
     /* Financial status colors */
     --success: 142 76% 36%;
     --success-foreground: 0 0% 100%;
-    --warning: 43 96% 56%;
-    --warning-foreground: 26 83% 14%;
+    --warning: 0 84% 60%;
+    --warning-foreground: 0 0% 100%;
     --error: 0 84% 60%;
     --error-foreground: 0 0% 100%;
 
